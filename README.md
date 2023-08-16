@@ -1,1 +1,1 @@
-Live News App 
+Live News App with news api in reactjs
